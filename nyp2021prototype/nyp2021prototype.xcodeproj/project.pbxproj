@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D563BB81261EB750003F8B6F /* monitorStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D563BB80261EB750003F8B6F /* monitorStoryboard.storyboard */; };
 		D5CC77BC261EB23400726CC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CC77BB261EB23400726CC5 /* AppDelegate.swift */; };
 		D5CC77BE261EB23400726CC5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CC77BD261EB23400726CC5 /* SceneDelegate.swift */; };
 		D5CC77C0261EB23400726CC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CC77BF261EB23400726CC5 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D563BB80261EB750003F8B6F /* monitorStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = monitorStoryboard.storyboard; sourceTree = "<group>"; };
 		D5CC77B8261EB23400726CC5 /* nyp2021prototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nyp2021prototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5CC77BB261EB23400726CC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5CC77BD261EB23400726CC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		D5CC77AF261EB23400726CC5 = {
 			isa = PBXGroup;
 			children = (
+				D563BB80261EB750003F8B6F /* monitorStoryboard.storyboard */,
 				D5CC77BA261EB23400726CC5 /* nyp2021prototype */,
 				D5CC77D1261EB23500726CC5 /* nyp2021prototypeTests */,
 				D5CC77DC261EB23500726CC5 /* nyp2021prototypeUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D563BB81261EB750003F8B6F /* monitorStoryboard.storyboard in Resources */,
 				D5CC77C8261EB23400726CC5 /* LaunchScreen.storyboard in Resources */,
 				D5CC77C5261EB23400726CC5 /* Assets.xcassets in Resources */,
 				D5CC77C3261EB23400726CC5 /* Main.storyboard in Resources */,
